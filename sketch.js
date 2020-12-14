@@ -36,7 +36,7 @@ function setup() {
   mango9=new Mango(1430,450,120);
   mango10=new Mango(1410,330,150);
   stone=new Stone(780,300,40);
-  slingshot=new Chain(boy.body,stone.body)
+  //slingshot=new Chain(boy.body,stone.body)
 
 
 
